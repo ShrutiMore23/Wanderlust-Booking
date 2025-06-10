@@ -51,6 +51,5 @@ Wanderlust is a full-stack travel accommodation booking platform inspired by Air
 ## 🧑‍💻 Author
 
 **Shruti More**  
-🌐 [Portfolio](https://shruti-more-portfolio.netlify.app/) 
-🐙 [GitHub](https://github.com/ShrutiMore23) • 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
+🌐 [Portfolio](https://shruti-more-portfolio.netlify.app/) • 🐙 [GitHub](https://github.com/ShrutiMore23) • 💼 [LinkedIn](https://linkedin.com/in/shruti-more23)
 
