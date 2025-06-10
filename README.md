@@ -24,5 +24,9 @@ Wanderlust is a full-stack travel accommodation booking platform inspired by Air
 
 ---
 
+## ✨ Future Improvements
+-✈️ Add payment gateway integration
 
+-📍 Integrate Maps API for location view
 
+-💬 Add reviews and ratings for stays
