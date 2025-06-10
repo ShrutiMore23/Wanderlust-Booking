@@ -30,3 +30,23 @@ Wanderlust is a full-stack travel accommodation booking platform inspired by Air
 - 📍 Integrate Maps API for location view
 
 - 💬 Add reviews and ratings for stays
+
+---
+
+## 🧑‍💻 Author
+
+**Shruti More**  
+🌐 [Portfolio](https://shruti-more-portfolio.netlify.app/) • 🐙 [GitHub](https://github.com/ShrutiMore23) • 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)
+
+---
+
+## 🔮 Future Enhancements
+
+- 💳 **Payment Integration**: Enable secure online payments using Stripe or Razorpay.
+- ⭐ **Review & Rating System**: Allow users to leave reviews and rate their stays.
+- 📍 **Map Integration**: Display listings on a map using Google Maps or Leaflet.
+- 📅 **Availability Calendar**: Let hosts set availability and guests pick dates.
+- 📱 **Progressive Web App (PWA)**: Improve mobile experience with offline capabilities.
+- 📊 **Admin Dashboard**: Analytics, user management, and report handling.
+- 🔔 **Notifications**: Email or in-app notifications for bookings and messages.
+- 🌐 **Multi-language Support**: Add i18n support to serve users globally.
